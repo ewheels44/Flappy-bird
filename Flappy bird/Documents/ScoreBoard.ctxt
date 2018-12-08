@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ScoreBoard()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ ScoreBoard\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=c
+comment1.target=void\ changeColor(java.awt.Color)
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=pts
+comment3.target=void\ addScore(int)
+comment4.params=
+comment4.target=void\ update()
+comment5.params=
+comment5.target=void\ updateHS()
+numComments=6
